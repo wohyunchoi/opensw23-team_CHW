@@ -1,6 +1,6 @@
 # opensw23-team_CHW
 
-#Team introduction
+## Team introduction
 
 개인팀
 
@@ -10,31 +10,31 @@
 
 ---
 
-#Topic Introduction
+## Topic Introduction
 
   –Provide an overview of the chosen topic (currently empty)
   
 ---
  
-#Results
+## Results
 
   –Describe the representative results or findings (currently empty)
   
 ---
 
-##Analysis/Visualization
+## Analysis/Visualization
 
   –Present any analysis or visualizations related to the topic (currently empty)
   
 ---
 
-##Installation
+## Installation
 
   –Explain the installation and running process for the code (currently empty)
   
 ---  
   
-##Presentation
+## Presentation
 
   –Insert the video link for the final presentation (currently empty)
 
