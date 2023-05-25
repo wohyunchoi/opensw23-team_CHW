@@ -1,6 +1,6 @@
 # opensw23-team_CHW
 
-##Team introduction
+#Team introduction
 
 
 개인팀
@@ -8,13 +8,13 @@
 학번: 202011385
 ---
 
-##Topic Introduction
+#Topic Introduction
 
 
   –Provide an overview of the chosen topic (currently empty)
 ---
  
-##Results
+#Results
   –Describe the representative results or findings (currently empty)
 ---
 
