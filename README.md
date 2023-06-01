@@ -15,8 +15,6 @@
 
 
 ## Results!
-[bus](https://github.com/wohyunchoi/opensw23-team_CHW/assets/127183426/24f02054-280a-4791-ac21-b74719a4cf4d)
-
 
   –Describe the representative results or findings (currently empty)
 
